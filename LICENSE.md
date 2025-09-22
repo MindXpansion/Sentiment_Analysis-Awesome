@@ -47,7 +47,7 @@ in commercial activities) is STRICTLY PROHIBITED without:
       - Quarterly reporting of usage and revenues
       - Annual audit rights for the copyright holder
       
-To obtain commercial licensing, contact: [your-email@example.com]
+To obtain commercial licensing, contact: Daryl@mind-xpansion.com
 
 3. SPECIAL PROVISIONS
 
