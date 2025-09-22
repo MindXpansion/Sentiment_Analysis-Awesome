@@ -124,7 +124,7 @@ shall continue in full force and effect.
 13. COMMERCIAL LICENSING CONTACT
 
 For commercial licensing, custom terms, or questions:
-Email: [your-email@example.com]
+Email: Daryl@mind-xpansion.com
 Website: [your-website.com/licensing]
 
 ---
