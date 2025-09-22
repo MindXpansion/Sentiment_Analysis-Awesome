@@ -1,9 +1,6 @@
 # Sentiment_Analysis-Awesome
-🎭 Sentiment Analysis Awesome
-Show Image
-Show Image
-Show Image
-Show Image
+🎭 Sentiment Analysis
+
 A powerful, interactive sentiment analysis tool leveraging Google's Gemini 1.5 Flash model to classify text sentiment with confidence scoring.
 📋 License Notice
 This software is licensed under a Custom Non-Commercial License.
